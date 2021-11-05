@@ -36,7 +36,7 @@ $ node server.js
 ```
 
 ## Walkthrough Video<br>
-Video 1: https://watch.screencastify.com/v/PTdakVLm9NXeB5tHB0Ln
+Video 1: https://watch.screencastify.com/v/PTdakVLm9NXeB5tHB0Ln<br>
 Video 2: https://watch.screencastify.com/v/nPtvP763LveaTx93sWb1
 
 ## Deployment Page
