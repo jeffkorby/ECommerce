@@ -35,7 +35,8 @@ $ node server.js
 ### View, add, change and delete data in 'Category', 'Product', & 'Tag' models using the api routes
 
 ## Walkthrough Video<br>
-
+Video 1: https://watch.screencastify.com/v/PTdakVLm9NXeB5tHB0Ln
+Video 2: https://watch.screencastify.com/v/nPtvP763LveaTx93sWb1
 
 ## Deployment Page
 https://github.com/jeffkorby/ECommerce
